@@ -1,8 +1,6 @@
 arch:
   - amd64
   - arm64
-  - ppc64le
-  - s390x
 env:
  matrix:
    - FAIL=1
